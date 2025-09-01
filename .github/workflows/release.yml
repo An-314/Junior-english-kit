@@ -21,6 +21,7 @@ jobs:
                   curl -L https://github.com/typst/typst/releases/latest/download/typst-x86_64-unknown-linux-musl.tar.xz -o typst.tar.xz
                   tar -xf typst.tar.xz
                   sudo mv typst-x86_64-unknown-linux-musl/typst /usr/local/bin/
+                  rm -rf typst.tar.xz typst-x86_64-unknown-linux-musl
 
             - name: 🔤 Install Fonts (中文 + Consolas + 常用)
               run: |
