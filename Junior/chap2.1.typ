@@ -1,0 +1,269 @@
+#import "@preview/scripst:1.1.1": *
+
+== Animal Friends
+
+=== Preface
+
+- question 问题 (_n._)
+  - answer 答案 (_n._)
+    - the answer *to* the question
+  - summary 总结 (_n._)
+- important 重要的 (_adj._)
+  - importance 重要性 (_n._)
+- talk about 讨论 (_v._)
+- different 不同 (_adj._)
+  - be different from ... 与...不同
+  - difference 差异 (_n._)
+    - make a difference 产生影响
+- introduce 介绍 (_v._)
+  - introduction 介绍 (_n._)
+- favorite 最喜欢的 (_adj._)
+- describe 描述 (_v._)
+  - description 描述 (_n._)
+- explore 探索 (_v._)
+  - exploration 探索 (_n._)
+  - explorer 探险家 (_n._)
+- share 分享 (_v._)
+  - share with ... 与...分享
+
+=== Section A: Why do you like animals?
+
+- giraffe 长颈鹿 (_n._)
+- eagle 老鹰 (_n._)
+- penguin 企鹅 (_n._)
+- wolf 狼 (_n._)-*wolves*
+- instruction 指导 (_n._)
+  - _instruct_ 指导 (_v._)
+- conversation 对话 (_n._)
+- circle 圆圈 (_n._)
+- take (good) care of ... 照顾...
+  - care for ... 照顾...
+  - look after ... 照顾...
+- clever 聪明的 (_adj._)
+  - smart 聪明的 (_adj._)
+- repeat 重复 (_v._)
+  - _repetition_ 重复 (_n._)
+- group 组 (_n._)
+- brain 大脑 (_n._)
+- dangerous 危险的 (_adj._)
+- help sb do ... 帮助某人做...
+- be good for ... 对...有好处
+
+#blankblock(color: rgb("#999795"))[
+  - powerful 强大的 (_adj._)
+    - power 力量 (_n._)
+  - interesting 有趣的 (_adj._)
+    - interest 兴趣 (_n._)
+    - be interested *in* ... 对...感兴趣
+  - quiet 安静的 (_adj._)
+  - boring 无聊的 (_adj._)
+    - bore 无聊 (_v._)
+    - be bored *with* ... 对...感到无聊
+    - _boredom_ 无聊 (_n._)
+  - lazy 懒惰的 (_adj._)
+    - _laziness_ 懒惰 (_n._)
+  - dirty 肮脏的 (_adj._)
+    - dirt 肮脏 (_n._)
+  - endangered 濒危的 (_adj._)
+    - endanger 使...处于危险之中 (_v._)
+    - die out 灭绝 (_VP_)
+]
+- _toad_ 蟾蜍 (_n._)
+#blankblock[
+  - close
+    - 形容词：表示“接近的、亲近的”
+      - close to ... 接近...
+      - close friends 亲密朋友
+    - 副词：表示“靠近地、接近地”【物理上的距离近】
+      - stand close to ... 靠近...
+    - 动词：表示“关闭、结束”
+      - close the door 关闭门
+  - closely
+    - 副词：表示“紧密地、仔细地、密切地”【抽象意义上的仔细、密切】
+      - look closely at ... 仔细观察...
+]
+- take notes 记笔记 (_VP_)
+- ability 能力 (_n._)
+  - able 能够的 (_adj._)
+    - be able to do ... 能够做...
+  - disabled 残疾的 (_adj._)
+    - be disabled in ... 在...方面残疾
+  - disability 残疾 (_n._)
+#blankblock(color: rgb("#999795"))[
+  - elephant 大象 (_n._)
+  - insect 昆虫 (_n._)
+  - bamboo 竹子 (_n._)
+]
+- again 再次 (_adv._)
+  - once again 再次
+- pay attention *to* ... 注意...
+- match
+  - (_v._) 匹配
+    - match with ... 与...匹配
+  - (_n._) 比赛
+- usually 通常 (_adv._)
+- live 生活 (_v._)
+  - life 生活 (_n._)
+  - live one's life 过自己的生活
+  - live on 以...为生
+- complete 完成 (_v._)
+  - _completion_ 完成 (_n._)
+- ask about ... 询问关于...
+- partner 伙伴 (_n._)
+- sentence 句子 (_n._)
+- reason 原因 (_n._)
+  - _reasonable_ 合理的 (_adj._)
+  - \*The reason why ... is that ... ...的原因是...
+- scary 可怕的 (_adj._)
+  - be scared *of* ... 害怕...
+- underline 下划线、强调 (_v._)
+- neck 脖子 (_n._)
+- shark 鲨鱼 (_n._)
+- think of ... 想到...
+  - think-thought-thought (_v._, _v.p._, _v.p._)
+  - _thought_ 思想、想法 (_n._)
+- guess 猜测 (_v._) 猜测 (_n._)
+- each other = one another 彼此 (_prep._)
+
+=== Section B: How are animals part of our lives?
+
+- part of our lives 生活的一部分
+- play a part in ... 在...中扮演角色
+  - play a role in ... 在...中扮演角色
+- idea 想法 (_n._)
+- post 帖子 (_n._)
+- choose 选择 (_v._)
+  - choose-chose-chosen (_v._, _v.p._, _v.p._)
+  - choice 选择 (_n._)
+- title 标题 (_n._)
+  - content 内容 (_n._)
+- Thailand 泰国 (_n._)
+  - Thai 泰国的 (_adj._)
+- symbol 符号 (_n._)
+  - a symbol *of* ... ...的象征
+  - represent 代表 (_v._)
+    - representation 代表 (_n._)
+    - a representation *of* ... ...的代表
+- luck 运气 (_n._)
+  - lucky 幸运的 (_adj._)
+  - luckily 幸运地 (_adv._)
+  - unluckily 不幸地 (_adv._)
+- national 国家 (_adj._)
+  - nation 国家 (_n._)
+- celebrate 庆祝 (_v._)
+  - celebration 庆祝 (_n._)
+  - celebrate the festival 庆祝节日
+- different 不同 (_adj._)
+  - be different *from* ... 与...不同
+- huge 巨大的 (_adj._)
+- large 大的 (_adj._)
+- pick up 捡起、接某人、感染 (_VP_)
+- in some way 在某种程度上
+- playful 爱玩的 (_adj._)
+- \*for example 例如
+  - such as 例如 + 名词
+- remember 记得 (_v._)
+  - remember to do ... 记得做...
+  - remember doing ... 记得做过...
+- place 放置 (_v._) 地方 (_n._)
+  - places of interest 名胜古迹
+- culture 文化 (_n._)
+  - cultural 文化的 (_adj._)
+- danger 危险 (_n._)
+  - dangerous 危险的 (_adj._)
+  - in danger 处于危险中
+  - out of danger 脱离危险
+  - endanger 使...处于危险之中 (_v._)
+  - endangered species 濒危物种 (_n._)
+- _extinction_ 灭绝 (_n._)
+  - _extinct_ 绝种的 (_adj._)
+- forest 森林 (_n._)
+- look 看 (_v._)
+  - look for ... 寻找...
+  - look at 看
+  - look after 照顾
+  - look around 四处看
+  - look like 像
+  - look forward to *doing* 期待...， to 是介词
+- cut 切 (_v._)-cut-cut
+  - cut down 砍伐 (_VP_)
+  - cut off 切除 (_VP_)
+  - cut up 切碎 (_VP_)
+#blankblock[
+  - be made of ...
+    - 强调原材料在成品中依然能看得出/辨认出来。原材料的性质 基本没有改变。
+    - This table is made of wood.（这张桌子是木头做的，仍然能看出是木头。）
+    - The house is made of bricks.（这栋房子是砖建的，能看出是砖。）
+  - be made from ...
+    - 强调原材料在成品中已经看不出来。原料的性质 发生了变化。
+    - Paper is made from wood.（纸是由木头制成的，但看不出木头了。）
+    - Wine is made from grapes.（酒由葡萄酿成，看不出葡萄了。）
+]
+- count 计算、重要 (_v._)
+  - \*Every detail counts. count  = matter
+  - It counts.
+- save 保存、拯救 (_v._)
+  - save money 节省金钱
+  - save a life 拯救生命
+- passage 文章、通道 (_n._)
+- quite 相当、很 (_adv._)
+  - quite a adj. 相当的
+    - quite a lot of + 任意名词
+    - quite a few + 可数名词
+    - quite a little + 不可数名词
+      - There are quite a lot of books on the shelf. 架子上有相当多的书。
+      - There are quite a few people here. 这里有相当多的人。
+      - There is quite a little water in the bottle. 瓶子里有相当少的水。
+  - He is quite a good student. 他是一个相当好的学生。
+  - He is quite good at math. 他数学相当好。
+- scary 可怕的 (_adj._)
+  - be scared *of* ... 害怕...
+- You see, 你知道的，
+  - I see. 我知道了。
+- blind 失明的 (_adj._)
+- help sb *do*
+  - help me find my way 帮我找到我的路
+- around 周围 (_prep._, _adv._)
+  - look around 四处看
+  - around the world 环游世界
+  - around the corner 在拐角处
+- safe 安全的 (_adj._)
+  - stay safe 保持安全
+  - safety 安全 (_n._)
+- project 项目 (_n._)
+- design 设计 (_n._) 设计 (_v._)
+  - designer 设计师 (_n._)
+- take turns to do ... 轮流做...
+- write down 写下 (_VP_)
+- present 呈现 (_v._)
+  - _presentation_ 呈现 (_n._)
+- express 表达 (_v._)
+  - _expression_ 表达 (_n._)
+- vote 投票 (_v._)
+  - vote for ... 投票支持...
+- entrance 入口 (_n._)
+- exit 退出 (_n._)
+- reflect 反射 (_v._)
+- sign 标志 (_n._)
+  - sign up 报名 (_VP_)
+- _paradise_ 天堂 (_n._)
+- naughty 淘气的 (_adj._)
+#blankblock[
+  常见问句表达
+  - 提问频率
+    - How often do you ...? 你多久...一次？
+    - once, twice, three times a week 一周一次、两次、三次
+  - 表示提议、建议
+    - Why not ...? 为什么不...？
+      - Why not give it a try?
+    - How about ...? ...怎么样？
+      - How about going for a walk?
+    - What about ...? ...怎么样？
+      - What about trying a new restaurant?
+  - 提问时间
+    - 时间点
+      - When ...? 什么时候...？
+      - What time ...? 几点...？
+    - 时间段
+      - How long ...? ...多长时间？
+]

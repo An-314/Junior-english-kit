@@ -1,0 +1,285 @@
+#import "@preview/scripst:1.1.1": *
+
+== No Rules, No Order
+
+=== Preface
+
+- rule 规则 (_n._) 统治 (_v._)
+  - _ruler_ 统治者 (_n._)
+- order 秩序 (_n._) 订单 (_n._) 点餐 (_v._)
+  - _disorder_ 混乱 (_n._)
+  - food order 餐饮订单
+  - order food 点餐
+- follow 遵守、跟随 (_v._)-followed-followed
+  - follow the rules 遵守规则 = obey the rules
+  - following 接下来的 (_adj._)
+    - listen to the following instructions 听从以下指示
+- understand 理解 (_v._)-understood-understood
+  - understanding 理解 (_n._)
+- helpful 有帮助的 (_adj._)
+  - help 帮助 (_v._)
+
+=== Section A: What rules do we follow?
+
+- tick 勾选 (_v._)
+- late 迟到 (_adj._)
+  - be late for class 迟到上课
+  - lately 最近 (_adv._)
+- arrive 到达 (_v._)-arrived-arrived
+  - arrival 到达 (_n._)
+- on time 准时
+- in time 及时
+- hallways 走廊 (_n._)
+  - hall 大厅 (_n._)
+- uniform 制服 (_n._)
+- litter 垃圾 (_n._) 乱扔垃圾 (_v._)
+- polite 有礼貌的 (_adj._)
+  - be polite to others 对他人有礼貌
+- treat 对待 (_v._)
+  - treat others with respect 尊重他人
+- respect 尊重 (_v._)
+  - respectful 有礼貌的 (_adj._)
+- raise 提高 (_v._)
+  - raise your hand 举手 = put up your hand
+- record 记录 (_v._)
+  - keep a record 保持记录
+  - recording 录音 (_n._)
+- mention 提到 (_v._)
+  - mention others 提到他人
+- slow down 放慢速度 (_VP_)
+- instead 反而 (_adv._)
+  - instead of 代替
+    - Instead of going out, I stayed at home. 我没有出去，而是待在家里。
+    - I stayed at home instead of going out. 我待在家里，而不是出去。
+- make sure 确保 (_VP_)
+  - make sure to follow the rules 确保遵守规则
+- important 重要的 (_adj._)
+  - importance 重要性 (_n._)
+- snack 小吃 (_n._)
+  - snake 蛇 (_n._)
+- airport 机场 (_n._)
+- across 穿过 (_prep._)
+  - walk across the street= cross the street 过马路
+  - cross 穿过 (_v._)-crossed-crossed
+#blankblock[
+  *表示建议/享受的表达*
+  - Let's do ... 让我们做...
+    - Let's go to the cinema. 让我们去电影院。
+  - have fun doing ... 享受做...
+    - have fun doing homework 享受做作业
+  - have a good time doing ... 享受做...
+    - have a good time doing sports 享受做运动
+  - enjoy oneself 享受自己
+    - enjoy oneself at the party 在派对上享受自己
+]
+- meet 见面 (_v._)-met-met
+  - meeting 会议 (_n._)
+- lock 锁 (_v._)-locked-locked
+  - lock the door 锁门
+  - locker 储物柜 (_n._)
+- lend 借出 (_v._)-lent-lent
+  - lend a book 借出一本书
+  - lend sb a hand 帮助某人
+  - lend sb sth = lend sth to sb 借某人某物
+- snack 小吃 (_n._)
+  - snake 蛇 (_n._)
+- course 课程 (_n._)
+  - of course 当然
+- bring 带来 (_v._)-brought-brought
+  - bring your own lunch 自带午餐
+  - bring sb sth = bring sth to sb 带某人某物
+- mobile 移动的 (_adj._)
+  - mobile phone 手机 (_n._)
+  - telephone 电话 (_n._)
+- turn 转动 (_v._)
+  - turn off 关闭 (_VP_)
+  - turn on 打开 (_VP_)
+  - turn up 增大 (_VP_)
+  - turn down 减小、拒绝 (_VP_)
+    - turn down an offer 拒绝一个提议
+  - turn to 转向 (_VP_)
+    - turn to someone for help 向某人寻求帮助
+  - turn back 返回 (_VP_)
+    - turn back to the previous page 返回上一页
+  - turn around 转身 (_VP_)
+- Thanks for ... 感谢
+  - Due to .../ Thanks to ... 多亏
+- summary 总结 (_n._)
+  - in summary 总结而言
+  - summarize 总结 (_v._)
+- pay 支付 (_v._)
+  - pay attention to 注意
+  - pay for 付款
+- focus 专注 (_v._)
+  - focus on 关注
+- bold 加粗 (_v._)
+  - in bold 以加粗形式
+- change 改变 (_v._)
+  - change one's mind 改变主意
+- form 形成 (_v._) 形式 (_n._)
+  - form a habit 养成习惯
+  - change form 改变形式
+- queue 排队 (_n._)
+  - queue up 排队 (_VP_)
+  - jump the queue 插队 (_VP_)
+- many kinds of ... 各种各样的 ... = all kinds of ...
+- chocolate 巧克力 (_n._)
+- absent 缺席的 (_adj._)
+  - be absent from 缺席
+  - absence 缺席 (_n._)
+  - present 出席的 (_adj._)
+    - be present at 出席
+- library 图书馆 (_n._)
+- belt 皮带 (_n._)
+  - seat belt 安全带 (_n._)
+- sign 标志 (_n._)
+  - sign up 报名 (_VP_)
+  - sign in 登录 (_VP_)
+  - sign out 登出 (_VP_)
+- brainstorm 头脑风暴 (_v._)
+- below 在...下面 (_prep._)
+- above 在...上面 (_prep._)
+- dining 餐饮的 (_adj._)
+  - dining hall 餐厅 (_n._)
+  - dinner 晚餐 (_n._)
+- cinema 电影院 (_n._)
+- noise 噪音 (_n._)
+  - make a noise 制造噪音
+  - noisy 嘈杂的 (_adj._)
+  - voice 人说话的声音 (_n._)
+  - sound 声音 (_n._)
+#blankblock[
+  *情态动词*：后面跟动词原形
+  - can 可能、能够
+  - could 可能、能够（can的过去式）
+  - may 可能
+  - might 可能
+  - must 必须
+  - should 应该
+  - ought to 应该
+  - have to 必须
+  否定
+  - can't *不能*
+  - couldn't 不能（could的过去式）
+  - may not 可能不
+  - might not 可能不
+  - mustn't *禁止*
+  - shouldn't 不应该
+  - oughtn't 不应该
+  - haven't *不必要*
+]
+- wait 等待 (_v._)-waited-waited
+  - wait for someone 等待某人
+- leave 离开 (_v._)-left-left
+  - leave for someplace 离开去某地
+  - leave someplace 离开某地
+- practise 练习 (_v._)-practised-practised
+  - practise speaking English 练习说英语
+  - practice 练习 (_n._)
+    - Practice makes perfect.  熟能生巧。
+  - practical 实际的 (_adj._)
+
+=== Section B: How can rules help us?
+
+- letter 书信 (_n._)
+  - write a letter 写信
+  - receive a letter 收到信
+- reply 回复 (_v._)-replied-replied 回复 (_n._)
+  - reply to a letter 回复信件
+- right 权利 (_n._) 正确的 (_adj._)
+  - have the right to do 有权做某事
+  - exercise one's rights 行使权利
+  - be right about 对...是正确的
+- make one's bed 整理床铺
+- hurry 匆忙 (_v._)-hurried-hurried
+  - hurry up 赶快
+  - in a hurry 匆忙
+- late 迟到的 (_adj._)
+  - be late for 迟到
+- either 也、或者 (_conj._)
+  - either...or... 要么...要么...
+  - I can't either. 我也不能。
+    - I can too. 我也能。
+- even 甚至 (_adv._)
+  - even if 即使
+  - even so 尽管如此
+- piano 钢琴 (_n._)
+  - play the piano 弹钢琴
+  - pianist 钢琴家 (_n._)
+- hang 悬挂 (_v._)-hung-hung
+  - hang up 挂断
+  - hang out with 和...一起玩
+- on weekdays 在工作日
+- at weekends 在周末
+- important 重要的 (_adj._)
+  - It's important for sb to do sth 做某事对某人很重要。
+- focus 专注 (_v._)
+  - focus on 关注
+  - be focused on 专注于
+- spirit 精神 (_n._)
+  - team spirit 团队精神
+  - build team spirit 形成团队精神
+- relax 放松 (_v._)-relaxed-relaxed
+  - relax one's mind 放松心情
+- hard 努力的 (_adj._)
+  - work hard 努力工作
+  - hardly 几乎不 (_adv._)
+- become 变得 (_v._)-became-become
+  - become a doctor 成为一名医生
+- It's my first day at school. 这是我第一天上学。
+- find 找到 (_v._)-found-found
+  - find a solution 找到解决方案
+  - find one's way 找到方向
+  - look for 寻找
+- lend 借出 (_v._)-lent-lent
+  - lend a book 借出一本书
+  - lend sb a hand 帮助某人
+  - lend sb sth = lend sth to sb 借某人某物
+- borrow 借入 (_v._)-borrowed-borrowed
+  - borrow sb sth = borrow sth from sb 向某人借某物
+- return 归还 (_v._)-returned-returned
+  - return sb sth = return sth to sb 归还某人某物
+- advice 建议 (_n._)
+  - follow one's advice 听从某人的建议
+  - a piece of advice 一条建议
+  - advice on/about 对...的建议
+  - advise 建议 (_v._)
+    - advise sb to do 建议某人做某事
+- everyday 日常的 (_adj._)
+  - everyday life 日常生活
+  - every day 每天 (_adv._)
+    - I go to school every day. 我每天都去上学。
+- partner 合作伙伴 (_n._)
+  - business partner 商业伙伴
+  - partner with 与...合作
+#three-line-table[
+  - many, few, several, a lot of, some, any, no + 可数名词复数
+  - much, little, a lot of, some, any, no + 不可数名词
+]
+- discuss 讨论 (_v._)-discussed-discussed
+  - discuss a topic 讨论一个话题
+  - discussion 讨论 (_n._)
+- goal 目标 (_n._)
+  - set a goal 设定目标
+  - achieve a goal 实现目标
+- achieve 实现 (_v._)-achieved-achieved
+  - achieve one's goals 实现目标
+  - achieve one's dreams 实现梦想
+  - achievement 成就 (_n._)
+- get along well with 与...相处融洽
+- poster 海报 (_n._)
+  - put up a poster 张贴海报
+- present 赠送、展示 (_v._)-presented-presented
+  - present an award 颁发奖项
+  - present a gift 赠送礼物
+  - present an idea 提出一个想法
+  - presentation 演讲 (_n._)
+- accord 一致 (_n._)
+  - in accord with 与...一致
+  - according to 根据
+- explain 解释 (_v._)-explained-explained
+  - explain a concept 解释一个概念
+  - explanation 解释 (_n._)
+- describe 描述 (_v._)-described-described
+  - describe a picture 描述一幅画
+  - description 描述 (_n._)
