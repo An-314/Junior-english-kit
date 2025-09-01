@@ -38,6 +38,7 @@ jobs:
                   # ✅ Consolas 字体（来自 pensnarik 仓库）
                   git clone https://github.com/pensnarik/consolas-font.git
                   cp consolas-font/*.ttf ~/.fonts/
+                  rm -rf consolas-font
 
                   fc-cache -fv
 
