@@ -24,6 +24,10 @@ make
 
 BTW，本项目由笔者撰写的typst模板库[`scripst`](https://github.com/An-314/scripst)构建。
 
+## License
+
+本项目中的所有材料采用[CC BY-NC-SA 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/)协议。
+
 ## 贡献
 
 欢迎提出问题、建议和贡献代码！请遵循以下步骤：
