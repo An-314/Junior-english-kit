@@ -34,3 +34,5 @@
 #include "chap2.1.typ"
 
 #include "chap2.2.typ"
+
+#include "chap2.3.typ"
