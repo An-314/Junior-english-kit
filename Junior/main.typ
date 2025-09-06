@@ -36,3 +36,7 @@
 #include "chap2.2.typ"
 
 #include "chap2.3.typ"
+
+= 作文专题
+
+#include "chap7.typ"
