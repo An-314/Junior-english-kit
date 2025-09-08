@@ -62,3 +62,53 @@
   - join together 联合、团结
   - joint 共同的、联合的 (_adj._)
     - a joint effort 共同的努力
+- Not at all. 一点也不。
+- well-used 使用得很频繁的 (_adj._)
+  - worn out 用坏、磨损、破旧的 (_adj._)
+  - second-hand 二手的
+  - old-fashioned 过时的
+  - out of date 过时的
+  - out of fashion 过时的
+  - out of style 过时的
+- brand-new 全新的
+  - in good condition 状况良好的
+- well-过去分词 (_prefix_)
+  - well-known 众所周知的、著名的 (_adj._)
+  - well-paid 报酬高的 (_adj._)
+  - well-dressed 穿着得体的 (_adj._)
+  - well-behaved 举止得体的、行为良好的 (_adj._)
+  - well-educated 受过良好教育的 (_adj._)
+- well-being 健康、幸福 (_n._)
+  - mental well-being 心理健康
+  - physical well-being 身体健康
+- Practice makes perfect. 熟能生巧
+- badminton 羽毛球 (_n._)
+- double 双打 (_n._) 一对的 (_adj._)
+  - single 单打 (_n._) 单一的、单独的、单身的 (_adj._)
+    - singular 单数的 (_adj._)
+      - singular and plural 单数和复数
+      - singularity 独特性、奇特性 (_n._)
+#blankblock[
+  some times, sometimes, sometime 的区分
+  - some times 有几次 (_adv._)
+    - I've been to Beijing some times. 我去过北京好几次。
+  - sometimes 有时 (_adv._)
+    - I sometimes go swimming. 我有时去游泳。
+  - sometime 某个时候 (_adv._)
+    - I'll do it sometime. 我会在某个时候做这件事。
+]
+- imagine 想象、设想 (_v._)
+  - imagination 想象力 (_n._)
+  - imaginary 想象中的、虚构的 (_adj._)
+  - imagine doing sth 想象做某事
+    - I can't imagine living without you. 我无法想象没有你我会怎样生活。
+- make up 编造、组成、化妆 (_v._)
+  - make up a story 编造一个故事
+  - make up for 弥补、补偿
+    - make up for lost time 弥补失去的时间
+  - make up one's mind 下定决心
+    - I've made up my mind to go. 我已经下定决心要去。
+  - makeup 化妆品 (_n._)
+- pattern 模式、图案 (_n._)
+  - a pattern of behavior 一种行为模式
+  - a floral pattern 花卉图案
