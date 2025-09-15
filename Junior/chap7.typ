@@ -53,3 +53,38 @@ In the evening, we went to the park to relax. My parents jogged together #text(f
 This trip to Beijing was #text(fill: red)[not only joyful but also meaningful]. I learned more about nature, Chinese culture, and #text(fill: red)[the importance of] spending time with family. #text(fill: red)[It was truly an experience I will treasure forever].
 
 Thanks for listening!
+
+== 2025/9/14练习
+
+古人云:“读万卷书,行万里路。”读书使人明智,旅行却能让人开阔眼界次赏世界的万千风景。人生的旅途就如同一场盛大的冒险,而最美的风景往往就在路上。请你根据以下提示和要求,以“My trip to \_”为题,用英语写一篇短文,描述你的一次旅行。
+
+提示:
+- When did you go?
+- Who did you go with?
+- How did you go?
+- Where did you go?
+- What did you do?
+- ...
+
+要求:
+1. 请在题目空格处填入你的旅行地点;
+2. 包含提示中的所有内容,可适当发挥;
+3. 短文中不得出现任何真实的人名、校名及其他相关信息;
+4. 不少于 70 词。
+
+-----------------------------------------------------------------------------------------------------------------------
+
+*你的作答：*
+
+#figure(
+  image("pic/2025-09-15-18-44-59.png", width: 80%),
+  numbering: none,
+)
+
+*略加修改：*
+
+Last summer holiday, I went to Dongbei Zoo with my family. The zoo was very big and beautiful, #text(fill: red)[with] green trees, colorful flowers and fresh grass everywhere. #text(fill: red)[Walking inside], I felt relaxed and excited. We saw many animals, #text(fill: red)[such as] bears, foxes and wolves. They looked strong and cool, and I #text(fill: red)[couldn't stop taking] photos. We also saw #text(fill: red)[various kinds of] birds, whose brightly colored feathers made the whole place more #text(fill: red)[lively].
+
+#text(fill: red)[Among all the animals], tigers were my favorite. The tigers were large and strong. They had long tails and big paws, and on their foreheads there was the Chinese character “王”. It was really special and interesting to me.
+
+#text(fill: red)[At the end of the trip], we enjoyed some delicious ice cream. #text(fill: red)[To sum up,] this trip left me happy and unforgettable memories. It not only brought me happiness but also made me realize the importance of protecting animals.
