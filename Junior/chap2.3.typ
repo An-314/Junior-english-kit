@@ -112,3 +112,64 @@
 - pattern 模式、图案 (_n._)
   - a pattern of behavior 一种行为模式
   - a floral pattern 花卉图案
+
+- decide 决定 (_v._)
+  - decide to do sth 决定做某事
+    - I've decided to go. 我已经决定要去。
+  - decision 决定、决心 (_n._)
+  - decisive 决定性的、果断的 (_adj._)
+    - a decisive victory 决定性的胜利
+- refer 提到、参考、查阅 (_v._)
+  - refer to 提到、参考、查阅
+    - refer to the dictionary 查阅字典
+  - reference 参考、提及 (_n._)
+  - referee 裁判员 (_n._)
+- circle 圆圈、圈子 (_n._) 画圈 (_v._)
+  - a circle of friends 一群朋友
+  - in a circle 成圈地
+  - circular 圆形的 (_adj._)
+    - a circular table 圆桌
+- frequency 频率 (_n._)
+  - the frequency of buses 公交车的频率
+  - frequent 频繁的、常见的 (_adj._)
+    - a frequent visitor 常客
+  - frequently 频繁地、经常地 (_adv._)
+    - I frequently go to the library. 我经常去图书馆。
+- order 顺序、命令 (_n._) 命令、订购 (_v._)
+  - in order 按顺序
+  - out of order 出故障
+  - order sb to do sth 命令某人做某事
+    - The teacher ordered the students to be quiet. 老师命令学生们安静。
+- correct 正确的、改正的 (_adj._) 改正、纠正 (_v._)
+  - correct answer 正确答案
+  - incorrect 不正确的 (_adj._)
+    - an incorrect answer 错误答案
+  - correction 纠正、改正 (_n._)
+- belong 属于 (_v._)
+  - belong to 属于
+    - This book belongs to me. 这本书属于我。
+  - belongings 财物、行李 (_n._)
+    - This book is one of my belongings. 这本书是我的财物之一。
+- It is adj. for sb. to do sth. 某人做某事是...的
+  - It is important for you to study hard. 你努力学习是很重要的。
+  - It is necessary for him to go. 他去是必要的。
+- be full of 充满...
+  - The box is full of books. 盒子里装满了书。
+  - be filled with 充满...
+    - The room is filled with people. 房间里挤满了人。
+  - be crowded with 挤满...
+    - The bus is crowded with passengers. 公交车上挤满了乘客。
+- report 报告、报道 (_n._) 报告、报道 (_v._)
+  - write a report 写报告
+  - news report 新闻报道
+  - reporter 记者 (_n._)
+#blankblock[
+  物主代词
+  #three-line-table[
+    | 人称 | I | you | he | she | it | we | they |
+    |------|---|----|----|----|----|----|-----|
+    | 形容词性物主代词 | my | your | his | her | its | our | their |
+    | 名词性物主代词 | mine | yours | his | hers | its | ours | theirs |
+  ]
+  - 形容词性物主代词修饰名词，名词性物主代词单独使用
+]
