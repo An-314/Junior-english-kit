@@ -93,7 +93,7 @@ Last summer holiday, I went to Dongbei Zoo with my family. The zoo was very big 
 
 以"How to Keep Fit as a Student"为题,写一篇短文,谈谈作为学生如何保持健康。要求:
 1. 你可以从以下几个方面展开：
-  - Why we need to keep fitchy we need to keep fit
+  - Why we need to keep fit
   - Ways to keep fit
   - Your own experience or opinion
 2. 尽可能多的用到我们这一单元讲过的单词和短语以及用法，目的是复习这些单词和短语以及用法
