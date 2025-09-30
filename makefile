@@ -11,6 +11,9 @@ $(SUBDIRS):
 	@if [ -f $@/main.pdf ]; then \
 	  cp $@/main.pdf $(RELEASE_DIR)/$@.pdf; \
 	fi
+	@if [ -f $@/exe-main.pdf ]; then \
+	  cp $@/exe-main.pdf $(RELEASE_DIR)/$@-exe.pdf; \
+	fi
 
 $(RELEASE_DIR):
 	mkdir -p $(RELEASE_DIR)
