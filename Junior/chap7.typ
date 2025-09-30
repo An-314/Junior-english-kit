@@ -88,3 +88,60 @@ Last summer holiday, I went to Dongbei Zoo with my family. The zoo was very big 
 #text(fill: red)[Among all the animals], tigers were my favorite. The tigers were large and strong. They had long tails and big paws, and on their foreheads there was the Chinese character “王”. It was really special and interesting to me.
 
 #text(fill: red)[At the end of the trip], we enjoyed some delicious ice cream. #text(fill: red)[To sum up,] this trip left me happy and unforgettable memories. It not only brought me happiness but also made me realize the importance of protecting animals.
+
+== 七下第三单元第一次练习
+
+以"How to Keep Fit as a Student"为题,写一篇短文,谈谈作为学生如何保持健康。要求:
+1. 你可以从以下几个方面展开：
+  - Why we need to keep fit
+  - Ways to keep fit
+  - Your own experience or opinion
+2. 尽可能多的用到我们这一单元讲过的单词和短语以及用法，目的是复习这些单词和短语以及用法
+
+-----------------------------------------------------------------------------------------------------------------------
+
+*结合我们所学用法，这里给出一个范文供参考：*
+
+How to Keep Fit as a Student
+
+As students, #text(fill: red)[it is important for us to] keep fit. Keeping fit #text(fill: red)[is good for both our physical well-being and mental well-being]. If we are healthy, we can #text(fill: red)[do well in] our studies and enjoy school life.
+
+There are many ways to keep fit. #text(fill: blue)[First], we should often do sport or exercise. #text(fill: red)[For example], I often play badminton in the sports center with my friends. Sometimes we play singles, and sometimes doubles. Practice makes perfect, and now #text(fill: red)[I am good at it]. #text(fill: blue)[Second], we need to #text(fill: red)[form good habits]. Going to bed early and keeping calm in exams are very helpful. #text(fill: blue)[Besides], we should eat healthily. We must #text(fill: red)[discover] what kind of food is good for us and avoid junk food.
+
+#text(fill: red)[To sum up], keeping fit #text(fill: red)[makes a big difference]. It #text(fill: red)[not only] improves our health #text(fill: red)[but also helps us realize the importance of hard work and happiness].
+
+-----------------------------------------------------------------------------------------------------------------------
+
+*你的作答：*
+
+#figure(
+  image("pic/2025-09-19-21-42-25.png", width: 100%),
+  numbering: none,
+)
+
+
+*点评：*
+- 语言表达比之前生动了很多，错句也少了很多
+- 但还是有一些语法和拼写错误，慢慢积累和改正
+- 书写还需要注意，尤其是字母大小写和标点符号
+- 行文逻辑没有按照要求，这是硬伤！
+
+*略加修改：*
+
+Keeping fit is very important for everyone, #text(fill: red)[especially] for students. If we are healthy, we can study better and enjoy our life more.
+
+There are many ways to keep fit. #text(fill: red)[Some] people often go to the gym on weekends. #text(fill: red)[Others] choose running, swimming, or playing ball games. Doing sports not only makes our body strong but also keeps our mind #text(fill: red)[active].
+
+As for me, I often go skating with my friends once a week. My skateboard is really cool, and so are theirs. We try some new tricks together. #text(fill: red)[Although] some of them are #text(fill: red)[challenging], we always encourage one another. #text(fill: red)[Once you succeed], you will feel #text(fill: red)[a strong sense of achievement].
+
+To sum up, keeping fit can make a big difference. It helps us stay healthy and build friendship. I believe everyone should find a sport they enjoy and keep doing it.
+
+*略加升级的表达：*
+
+Keeping fit #text(fill: red)[plays an important role] in our life. #text(fill: red)[Without good health, it is impossible for us to study efficiently or enjoy real happiness]. Doing sports not only #text(fill: red)[improves] our physical well-being but also #text(fill: red)[strengthens] our mental well-being.
+
+There are #text(fill: red)[various] ways to keep fit. Some people choose to go to the gym at the weekend, #text(fill: red)[while] others prefer jogging, swimming, or playing ball games. #text(fill: red)[In fact], #text(fill: red)[regular] exercise can help us #text(fill: red)[form good habits, stay energetic, and reduce stress]. It is important for everyone to find a #text(fill: red)[suitable] way to keep doing exercise.
+
+As for me, I usually go skating with my friends once a week. My skateboard is amazing, and theirs are cool too. We often try some new tricks. Although they are sometimes #text(fill: red)[quite] challenging, #text(fill: red)[we never give up]. #text(fill: red)[Instead], we encourage one another, and once we succeed, we #text(fill: red)[feel a strong sense of achievement]. From this experience, I #text(fill: red)[realized the importance of keeping fit and teamwork].
+
+#text(fill: red)[To sum up], keeping fit #text(fill: red)[truly] makes a difference. It not only helps us stay healthy but also teaches us perseverance and cooperation. I believe that if we keep exercising, we will all benefit from it in the long run.
