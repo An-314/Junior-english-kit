@@ -437,3 +437,188 @@
 - give up 放弃、停止 (_v._)
   - give up doing sth 放弃做某事
     - He gave up smoking. 他戒烟了。
+- web 网、网络 (_n._)
+  - the World Wide Web 万维网
+  - website 网站 (_n._)
+  - web page 网页 (_n._)
+  - surf the web 浏览网页
+    - I often surf the web for information. 我经常上网查找信息。
+- teenager 青少年 (_n._)
+  - teenage 青少年的 (_adj._)
+    - teenage years 青少年时期
+  - teen 青少年 (_n._)
+    - a group of teens 一群青少年
+- health 健康 (_n._)
+  - in good health 健康的
+  - in poor health 健康状况不佳的
+  - healthy 健康的、有益健康的 (_adj._)
+    - a healthy diet 健康的饮食
+  - unhealthy 不健康的 (_adj._)
+    - an unhealthy lifestyle 不健康的生活方式
+- exercise 锻炼、练习 (_n._) 锻炼、运用 (_v._)
+  - do exercise 做运动
+  - physical exercise 体育锻炼
+  - mental exercise 智力锻炼
+  - exercise book 练习本
+  - exercise program 锻炼计划
+- mind 头脑、思维 (_n._) 介意、注意 (_v._)
+  - mind your own business 管好你自己的事
+  - never mind 没关系、不介意
+  - mind doing sth 介意做某事
+    - Do you mind opening the window? 你介意开窗吗？
+  - keep in mind 记住、牢记
+    - Keep in mind that practice makes perfect. 记住熟能生巧。
+  - change one's mind 改变主意
+    - I've changed my mind about going. 我改变了去的主意。
+  - make up one's mind 下定决心
+    - She has made up her mind to study abroad. 她已经下定决心出国留学。
+  - mind map 思维导图 (_n._)
+- similar 相似的、类似的 (_adj._)
+  - be similar to 与...相似
+    - Your idea is similar to mine. 你的想法和我的相似。
+  - similarity 相似性、相似之处 (_n._)
+    - There are many similarities between the two stories. 这两个故事有很多相似之处。
+  - similarly 同样地、类似地 (_adv._)
+    - Similarly, we should treat others with respect. 同样地，我们也应该尊重他人。
+- compare 比较、对比 (_v._) 比较、对照 (_n._)
+  - compare A with B 把A和B进行比较
+    - Let's compare our answers with each other. 让我们互相比较一下答案。
+  - comparison 比较、对照 (_n._)
+    - in comparison with 与...相比
+      - In comparison with last year, this year is better. 和去年相比，今年更好。
+  - comparable 可比较的、类似的 (_adj._)
+    - The two products are comparable in quality. 这两种产品在质量上是相似的。
+  - comparatively 相对地、比较地 (_adv._)
+    - This book is comparatively easy to read. 这本书相对容易读。
+- habit 习惯 (_n._)
+  - have a habit of doing sth 有做某事的习惯
+    - He has a habit of biting his nails. 他有咬指甲的习惯。
+  - form a habit 养成习惯
+    - It takes time to form a habit. 养成一个习惯需要时间。
+  - break a habit 改掉一个习惯
+    - It's hard to break a bad habit. 改掉一个坏习惯很难。
+  - habitual 习惯性的、惯常的 (_adj._)
+    - a habitual liar 一个惯于说谎的人
+  - habitually 习惯性地、惯常地 (_adv._)
+    - He habitually arrives late. 他习惯性地迟到。
+- brief 简短的、简洁的 (_adj._) 简报、摘要 (_n._)
+  - in brief 简而言之
+  - a brief summary 一个简短的总结
+  - briefly 简短地、简要地 (_adv._)
+    - Let me briefly explain the plan. 让我简要地解释一下这个计划。
+- present 现在的、出席的 (_adj._) 现在、礼物 (_n._) 呈现、赠送 (_v._)
+  - at present 目前、现在
+  - be present 出席、在场
+    - All students must be present at the meeting. 所有学生必须出席会议。
+  - present sb with sth 把某物赠送给某人
+    - The teacher presented the award to the best student. 老师把奖品颁发给了最佳学生。
+  - presentation 演讲、介绍、展示 (_n._)
+    - give a presentation 做演讲
+  - represent 代表、象征 (_v._)
+    - The flag represents the country. 国旗代表国家。
+    - representative 代表性的、典型的 (_adj._) 代表、代理人 (_n._)
+      - a representative of the company 公司的代表
+    - representation 代表、表现 (_n._)
+- popular 受欢迎的、流行的 (_adj._)
+  - popular music 流行音乐 = pop music
+  - be popular with 受...欢迎
+    - The new movie is very popular with young people. 这部新电影在年轻人中很受欢迎。
+  - popularity 受欢迎、流行 (_n._)
+    - The singer has gained great popularity. 这位歌手获得了很高的人气。
+  - populate 居住于、构成...的人口 (_v._)
+    - The area is populated by a diverse community. 该地区居住着一个多元化的社区。
+    - population 人口、居民 (_n._)
+      - The population of the city is over one million. 该市人口超过一百万。
+- find out 发现、查明 (_v._)
+  - find out the truth 查明真相
+- important 重要的 (_adj._)
+  - an important decision 一个重要的决定
+  - importance 重要性 (_n._)
+    - the importance of education 教育的重要性
+  - importantly 重要地、显著地 (_adv._)
+    - More importantly, we need to focus on quality. 更重要的是，我们需要关注质量。
+- shape 形状、外形 (_n._) 塑造、形成 (_v._)
+  - in the shape of 以...的形状
+    - The cake is in the shape of a heart. 蛋糕是心形的。
+  - take shape 成形、形成
+    - The plan is beginning to take shape. 计划开始成形了。
+  - shapely 体态优美的、匀称的 (_adj._)
+    - a shapely figure 匀称的身材
+  - reshape 重塑、改造 (_v._)
+    - The company is trying to reshape its image. 公司正在努力重塑其形象
+  - misshape 使变形、使畸形 (_v._)
+    - The heat has misshaped the plastic. 高温使塑料变形了。
+  - misshapen 畸形的、变形的 (_adj._)
+    - a misshapen vase 畸形的花瓶
+- achieve 实现、完成 (_v._)
+  - achieve one's goal/dream 实现目标/梦想
+  - achieve success 取得成功
+  - achievement 成就、完成 (_n._)
+    - a great achievement 一项伟大的成就
+    - a sense of achievement 成就感
+  - achievable 可实现的、可完成的 (_adj._)
+    - an achievable goal 一个可实现的目标
+- have fun doing sth 做某事玩得开心
+  - We had a lot of fun playing games. 我们玩游戏玩得很开心。
+  - have a good time 玩得愉快
+    - We had a good time at the party. 我们在聚会上玩得很愉快。
+- enjoy 享受、喜欢 (_v._)
+  - enjoy doing sth 喜欢做某事
+    - I enjoy reading books. 我喜欢读书。
+  - enjoy oneself 玩得开心
+  - enjoyment 享受、乐趣 (_n._)
+    - She gets great enjoyment from painting. 她从绘画中获得了极大的乐趣。
+  - enjoyable 令人愉快的、有趣的 (_adj._)
+    - an enjoyable experience 一次愉快的经历
+  - joy 令人愉快的事物、快乐 (_n._) 使快乐、欣喜 (_v._)
+    - It is a joy to see you again. 再次见到你真是太高兴了。
+    - joyful 快乐的、令人愉快的 (_adj._)
+      - a joyful occasion 一个令人愉快的场合
+    - joyfully 快乐地、欣喜地 (_adv._)
+      - She smiled joyfully. 她高兴地笑了。
+- try 尝试 (_v._) 试验、努力 (_n._)
+  - try to do sth 尝试做某事
+    - I'll try to finish it by tomorrow. 我会尽力在明天之前完成它。
+  - try doing sth 试着做某事
+    - Try restarting your computer. 试着重启你的电脑。
+  - try out 试验、测试
+    - We need to try out the new software. 我们需要测试新软件。
+  - try on 试穿
+    - She tried on several dresses before choosing one. 她试穿了几件裙子才选了一件。
+  - try one's best to do sth 尽力而为
+    - \= go out of one's way to do sth = make every effort to do sth
+    - I'll try my best to help you. 我会尽力帮助你。
+  - have a try 试一试
+    - Why not have a try? 为什么不试一试呢？
+  - trial 审判、试验 (_n._)
+    - a trial period 试用期
+  - tricky 棘手的、复杂的 (_adj._)
+    - a tricky problem 一个棘手的问题
+- challenge 挑战、质疑 (_n._) 向...挑战、质疑 (_v._)
+  - face a challenge 面对挑战
+  - challange sb to do sth 向某人挑战做某事
+    - He challenged me to a game of chess. 他向我挑战下一盘棋。
+  - challenging 具有挑战性的、困难的 (_adj._)
+    - a challenging task 一项具有挑战性的任务
+  - challenger 挑战者、竞争者 (_n._)
+- mistake 错误、误解 (_n._) 弄错、误解 (_v._) -mistook-mistaken
+  - make a mistake 犯错误
+    - I made a mistake in my calculations. 我的计算有误。
+  - by mistake 错误地、无意中
+    - I sent the email to the wrong person by mistake. 我错误地把邮件发给了错误的人。
+  - mistaken 错误的、误解的 (_adj._)
+    - a mistaken belief 错误的信念
+  - mistakenly 错误地、误解地 (_adv._)
+    - He was mistakenly accused of the crime. 他被错误地指控犯有罪行。
+
+#blankblock[
+  反身代词
+  - myself, yourself, himself, herself, itself, ourselves, yourselves, themselves
+  - 用法：
+    1. 作宾语，表示动作反射到主语上
+      - I taught myself to play the guitar. 我自学弹吉他。
+    2. 作介词宾语，强调“亲自”
+      - She did the work herself. 她亲自做了这项工作。
+    3. 用于强调句，放在句末
+      - I myself don't believe it. 我自己都不相信这件事。
+]
