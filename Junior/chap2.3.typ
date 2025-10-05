@@ -173,3 +173,267 @@
   ]
   - 形容词性物主代词修饰名词，名词性物主代词单独使用
 ]
+
+=== Section B: How is exercise good for us?
+
+- discuss 讨论、商量 (_v._)
+  - discuss sth with sb 与某人讨论某事
+    - We discussed the plan with the teacher. 我们和老师讨论了这个计划。
+  - discussion 讨论、商量 (_n._)
+- idea 想法、主意 (_n._)
+  - have an idea 有一个想法
+  - a good idea 一个好主意
+  - ideal 理想的、完美的 (_adj._) 理想、典范 (_n._)
+    - an ideal student 一个理想的学生
+- account 账户、账目 / 账单 / 账务、描述 / 报告 / 叙述、解释 (_n._) 解释、说明 (_v._)
+  - a bank account 银行账户
+  - keep the accounts 记账
+  - accountant 会计师 (_n._)
+  - settle accounts with sb. 和某人结算账目
+  - give a detailed account of the accident 详细叙述事故经过
+  - by all accounts 据说、据各方说
+    - By all accounts, he is a good teacher. 据各方说，他是个好老师。
+  - on account of 因为、由于 = because of = due to = owing to
+    - The game was cancelled on account of the rain. 比赛因为下雨而取消了。
+  - on no account 决不
+    - On no account should you tell him the truth. 你决不能告诉他真相。（否定副词 / 否定短语 放在句首时的语法规则）
+  - account for 解释、说明
+    - Can you account for your absence? 你能解释一下你的缺席吗？
+  - take into account 考虑到
+    - We should take into account the weather. 我们应该考虑到天气。
+  - give an account of 叙述、说明
+    - He gave an account of his trip. 他叙述了他的旅行。
+
+#blankblock[*部分倒装*
+
+  - 部分倒装就是 *只把助动词 / 情态动词 / 系动词提前* 到主语前，而谓语的实义动词保持在原位。
+  - 对比：
+    - *正常语序*：I have never been there.
+    - *部分倒装*：Never *have I* been there.
+  - 它不同于 *完全倒装*（如 *Here comes the bus.* → 谓语动词直接放到主语前）。
+
+  1. 否定词/短语置于句首
+
+    否定成分前移时，为了强调要倒装。
+
+    - Never have I seen such a thing.
+    - Under no circumstances should you be late.
+    - On no account can we accept the offer.
+    - Not until he spoke did I realize the truth.
+
+  2. Only + 状语置于句首
+
+    当 *only + 状语*（only then, only in this way, only after...）放在句首时，主句要倒装。
+
+    - Only in this way can we succeed.
+    - Only after the meeting did he realize the mistake.
+    - Only then did I understand what he meant.
+
+  3. Hardly, Scarcely, No sooner…than…
+
+    这些连词结构常用于表示“刚…就…”，句子前半部分要倒装。
+
+    - Hardly had I arrived when it started to rain.
+    - No sooner had she sat down than the phone rang.
+    - Scarcely had they finished when the teacher came in.
+
+  4. So / Such … that…
+
+    为了强调，so / such 放在句首时要倒装。
+
+    - So loudly did he speak that everyone could hear.
+    - Such was his anger that he couldn’t speak.
+
+  5. 表频率或程度的副词置于句首
+
+    如 *seldom, rarely, little* 等，带有否定或限制意味。
+
+    - Seldom do we have the chance to hear such music.
+    - Rarely have I seen him so happy.
+    - Little did I know what was going to happen.
+
+  6. 条件句中的虚拟倒装
+
+    省略 *if* 时，句子需要倒装。
+
+    - Had I known the truth, I would have told you. (= If I had known…)
+    - Should you need any help, just call me. (= If you should need…)
+    - Were I you, I wouldn’t do that. (= If I were you…)
+
+  总结
+  - *部分倒装 = 助动词 / 情态动词 / 系动词提前 + 主语 + 其他成分*
+  - 常出现在 *否定副词、only短语、so/such、条件句省 if* 的场合。
+  - 功能：*强调* 或 *保持句子平衡/正式感*。
+]
+
+#blankblock[
+  *完全倒装*
+
+  - 完全倒装就是 *整个谓语动词（包括实义动词）放在主语前*。
+  - 对比：
+    - *正常语序*：The bus comes here.
+    - *完全倒装*：Here comes the bus.
+
+    和 *部分倒装* 不同：部分倒装只把 *助动词/情态动词/系动词* 提前，而实义动词不动。
+
+
+  + 表示地点 / 方位 / 方向的副词置于句首
+
+    当地点、方位或运动方向的副词或介词短语放句首时，常用完全倒装，尤其是在文学或书面语中。
+
+    - Here comes the bus.（公交车来了。）
+    - There goes the bell.（铃响了。）
+    - On the wall hung a picture.（墙上挂着一幅画。）
+    - In the distance appeared a tall building.（远处出现了一栋高楼。）
+    - 注意：主语如果是代词（he, she, it 等），一般不用倒装。
+      - Here he comes.（不用 *Here comes he.*）
+
+
+  + 表示“强调存在”的 there be 句型
+
+    - There is a book on the desk.
+    - There were many people at the meeting.
+
+    这是英语最典型的完全倒装结构。
+
+  + 为了保持句子平衡
+
+    当主语部分很长时，把谓语提前更自然。
+
+    - Seated at the table was a group of students who had just finished the exam.
+    - Lying in the corner are several old bicycles.
+
+
+  + 在某些固定句型中
+
+    - So do I. / So does he.（我也是/他也是。）
+    - Neither do I.（我也不。）
+
+    这些也是完全倒装，因为谓语整个提前。
+
+  #three-line-table[
+    | 类型       | 倒装内容             | 例子                                  |
+    | -------- | ---------------- | ----------------------------------- |
+    | *部分倒装* | 只把助动词/情态动词/系动词提前 | Never *have I* seen such a thing. |
+    | *完全倒装* | 整个谓语动词提前（实义动词在前） | On the hill *stood* a tall tower. |
+  ]
+
+  总结
+  - *副词（here, there, in, on 等）+ 动作 → 完全倒装*
+  - *there be → 固定完全倒装*
+  - *主语太长 → 倒装更自然*
+  - *So do I / Neither do I → 固定完全倒装*
+]
+
+- blank 空白的、空着的 (_adj._) 空白、空格 (_n._)
+  - fill in the blanks 填写表格
+  - a blank sheet of paper 一张白纸
+- special 特别的、专门的 (_adj._) 特别、专车、特餐 (_n._)
+  - special offer 特别优惠
+  - a special train 专列
+  - specially 特别地、专门地 (_adv._)
+    - I bought it specially for you. 我专门为你买的。c（常指“特意”）
+    - \= for a special purpose
+  - especially 尤其、特别 (_adv._)
+    - I like all fruits, especially apples. 我喜欢所有的水果，尤其是苹果。（在众多中突出一个）
+    - \= particularly
+  - specialize in 专攻、专门从事
+    - He specializes in English teaching. 他专门从事英语教学。
+  - specialist 专家 (_n._)
+  - specialty 专业、特长、专门化 (_n._)
+    - His specialty is math. 他的专长是数学。
+- encourage 鼓励、激励 (_v._)
+  - encourage sb to do sth 鼓励某人做某事
+    - My parents always encourage me to do my best. 我的父母总是鼓励我尽力而为。
+  - encourage sb/sth in sth 在某方面鼓励某人/某事
+    - Good teachers encourage creativity in their students. 好老师鼓励学生的创造力。
+  - be encouraged to do sth. 被鼓励做某事
+    - Students are encouraged to ask questions. 鼓励学生提问。
+  - encouragement 鼓励、支持 (_n._)
+  - discourage 使气馁、使沮丧 (_v._)
+    - discourage sb from doing sth 劝阻某人不要做某事
+      - The bad weather discouraged us from going out. 恶劣的天气使我们不想出门。
+  - courage 勇气、胆量 (_n._) = bravery
+    - take courage to do sth 鼓起勇气做某事
+      - It took a lot of courage to speak in public. 在公众场合讲话需要很大的勇气。
+    - loss courage 失去勇气、泄气
+  - courageous 勇敢的、有胆量的 (_adj._)
+    - a courageous soldier 勇敢的士兵
+- once 一次 (_adv._) 一次、曾经 (_n._)
+  - once more 再一次
+  - once upon a time 很久很久以前
+  - once in a while 偶尔、有时
+  - once and for all 一劳永逸地
+  - at once 立刻、马上
+  - Once you have finished your homework, you can watch TV. 一旦你完成了作业，你就可以看电视。
+- succeed 成功、继承 (_v._)
+  - succeed *in* doing sth 在做某事上成功
+    - He succeeded in passing the exam. 他成功通过了考试。
+  - succeed as 作为...成功
+    - He succeeded as a businessman. 他作为商人很成功。
+  - succeed sb as 接替某人的职位
+    - He succeeded his father as the CEO. 他接替他父亲成为了首席执行官。
+  - success 成功、成就 (_n._)
+  - successful 成功的、有成就的 (_adj._)
+    - a successful businessman 成功的商人
+  - succession 连续、接连、继承 (_n._)
+    - a succession of events 一连串的事件
+  - successor 继任者、接替者 (_n._)
+  - 成功人士：a successful person / a person of success / a person of achievement
+- work out 锻炼、解决 (_v._)
+  - work out a plan 制定一个计划
+  - work out the answer 算出答案
+  - work out well 进展顺利
+    - Everything worked out well in the end. 最终一切都进展顺利。
+  - workout 锻炼、训练 (_n._)
+- progress 进步、进展 (_n._) 进步、前进 (_v._)
+  - make progress 取得进步（不可数，不用many）
+    - She has made great progress in English. 她的英语有了很大进步。
+  - in progress 正在进行中
+    - The project is still in progress. 这个项目还在进行中。
+  - The project is progressing well. 这个项目进展顺利。
+  - progression 进展、发展 (_n._)
+    - the progression of the disease 疾病的发展
+  - progressive 进步的、先进的 (_adj._)
+    - a progressive teacher 一位进步的老师
+  - progressively 逐渐地、渐进地 (_adv._)
+    - The weather is getting progressively warmer. 天气逐渐变暖。
+- app 应用程序、应用 (_n._)  = application
+  - mobile app 手机应用
+  - app store 应用商店
+  - apply 申请、应用 (_v._)
+    - apply for 申请
+      - apply for a job 申请工作
+    - apply to 适用于、应用于
+      - This rule applies to everyone. 这条规则适用于所有人。
+    - apply sth to sth 将某物应用于某事
+      - You should apply what you have learned to real life. 你应该把所学应用到实际生活中。
+  - application 应用、申请 (_n._)
+    - job application 求职申请
+    - college application 大学申请
+    - application form 申请表格
+  - applicant 申请人 (_n._)
+- quite 相当、完全 (_adv._)
+- match 比赛、对手 (_n._) 相配、匹配 (_v._)
+- spirit 精神、心灵 (_n._)
+  - team spirit 团队精神
+    - build team spirit 培养团队精神
+  - in high spirits 兴高采烈
+  - in low spirits 情绪低落
+  - spiritual 精神的、心灵的 (_adj._)
+    - spiritual health 心理健康
+- field 田地、领域 (_n._)
+  - football field 足球场
+  - in the field 在现场
+    - The reporter is in the field. 记者在现场。
+  - in the field of 在...领域
+    - He works in the field of medicine. 他在医学领域工作。
+  - fieldwork 实地工作、实地考察 (_n._)
+- reason 理由、原因 (_n._) 推理、思考 (_v._)
+  - for this reason 出于这个原因
+  - That's the reason why ... 这就是...的原因
+  - reasonable 合理的、公道的 (_adj._)
+    - a reasonable price 合理的价格
+- give up 放弃、停止 (_v._)
+  - give up doing sth 放弃做某事
+    - He gave up smoking. 他戒烟了。
