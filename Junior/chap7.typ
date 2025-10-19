@@ -145,3 +145,59 @@ There are #text(fill: red)[various] ways to keep fit. Some people choose to go t
 As for me, I usually go skating with my friends once a week. My skateboard is amazing, and theirs are cool too. We often try some new tricks. Although they are sometimes #text(fill: red)[quite] challenging, #text(fill: red)[we never give up]. #text(fill: red)[Instead], we encourage one another, and once we succeed, we #text(fill: red)[feel a strong sense of achievement]. From this experience, I #text(fill: red)[realized the importance of keeping fit and teamwork].
 
 #text(fill: red)[To sum up], keeping fit #text(fill: red)[truly] makes a difference. It not only helps us stay healthy but also teaches us perseverance and cooperation. I believe that if we keep exercising, we will all benefit from it in the long run.
+
+=== 八年级第一次大练习
+
+今年暑假，你和家人一起去了云南旅游。假如在7月29日这天，你们去了丽江古城参观，在那里看到了一些古老的建筑，品尝了当地美味的米线，欣赏了当地的美妙音乐。随后你们去了玉龙雪山，雪山高度达到5600米。请根据以下提示，写一篇日记，描述当天的情况，包含一些天气等细节。词数:80词左右。
+1. Where did you go?
+2. When did you go there?
+3. What did you do there?
+4. How was the weather?
+5. What food did you eat?
+6. How did you feel about the trip?
+提示词:the Old Town ofLijiang, Rice Noodles, Mount Yulong
+
+-----------------------------------------------------------------------------------------------------------------------
+
+*你的作答：*
+
+#figure(
+  image("pic/2025-10-19-15-57-53.png", width: 80%),
+  numbering: none,
+)
+
+问题非常大，有大量语法问题，其中硬伤是：
+- 句子不完整
+- 介词使用错误
+
+修改一下：
+
+My Trip to Lijiang
+
+During the summer vacation, I traveled to Lijiang, Yunnan with my family by train. It was a sunny and *pleasant* day.
+
+We first visited *several* ancient towns and *admired* the old buildings, which *were full of* history and *charm*. We tasted delicious local noodles and enjoyed *traditional* music that made me feel relaxed and happy. I also bought some small cups as *souvenirs* for my friends.
+
+The next day, we climbed Yulong Mountain, *which* is about 5,600 meters high. When we *reached* the top, the view was amazing. We took many beautiful photos and enjoyed a hot pot meal there. The food was very tasty.
+
+On the third day, we went back home. It was a wonderful trip, and I will never forget the landscapes and the joyful time I spent with my family.
+
+这样也是一种表达方式：
+
+During the summer vacation, I went to the Old Town of Lijiang in Yunnan with my family. It was a sunny and pleasant day, perfect for traveling.
+
+In the morning, we walked around the old town. The ancient buildings were beautiful and full of history. We tasted the local rice noodles, which were very delicious. There was also some traditional music playing in the street, and I really enjoyed listening to it. It made me feel relaxed and happy.
+
+In the afternoon, we went to Mount Yulong, which is about 5,600 meters high. The snow on the top of the mountain was shining under the sun. The air was fresh and cool. We took a lot of photos and had a great time there.
+
+In the evening, we went back to our hotel. I felt tired but very happy. It was really a wonderful trip, and I will never forget the beauty of Lijiang.
+
+再升级一下表达：
+
+During this summer vacation, I had an *unforgettable* trip to the Old Town of Lijiang in Yunnan with my family. It was a bright and sunny day, and the sky was *as blue as* a piece of crystal. The *pleasant* weather made our journey *even more enjoyable*.
+
+*As soon as* we arrived, I was amazed by the ancient buildings and the beautiful stone streets. Every corner of the old town *seemed* to tell a story from the past. We tasted the local rice noodles, *which* were soft, spicy, and full of flavor. *While* enjoying the meal, we listened to the traditional music, and the sound of the *instruments* made me feel peaceful and relaxed.
+
+In the afternoon, we went to Mount Yulong, which *stands* proudly at about 5,600 meters high. The snow-covered peak looked like a shining diamond under the sunlight. *Climbing up the mountain was not easy, but the breathtaking view at the top was worth every step.* We took many photos and even had a small picnic there.
+
+When we returned to our hotel in the evening, I felt tired but deeply *satisfied*. The trip not only *allowed* me to see the natural beauty of Yunnan but also helped me understand its rich culture. It was *truly* one of the most wonderful days in my life, and I will always *treasure* this memory.
