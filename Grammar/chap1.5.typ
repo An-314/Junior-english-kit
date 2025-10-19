@@ -94,6 +94,122 @@
     - *Only after* the rain *stopped* did we go out.
       - We go out only after the rain stopped.
 
+  - 部分倒装就是 *只把助动词 / 情态动词 / 系动词提前* 到主语前，而谓语的实义动词保持在原位。
+  - 对比：
+    - *正常语序*：I have never been there.
+    - *部分倒装*：Never *have I* been there.
+  - 它不同于 *完全倒装*（如 *Here comes the bus.* → 谓语动词直接放到主语前）。
+
+  1. 否定词/短语置于句首
+
+    否定成分前移时，为了强调要倒装。
+
+    - Never have I seen such a thing.
+    - Under no circumstances should you be late.
+    - On no account can we accept the offer.
+    - Not until he spoke did I realize the truth.
+
+  2. Only + 状语置于句首
+
+    当 *only + 状语*（only then, only in this way, only after...）放在句首时，主句要倒装。
+
+    - Only in this way can we succeed.
+    - Only after the meeting did he realize the mistake.
+    - Only then did I understand what he meant.
+
+  3. Hardly, Scarcely, No sooner…than…
+
+    这些连词结构常用于表示“刚…就…”，句子前半部分要倒装。
+
+    - Hardly had I arrived when it started to rain.
+    - No sooner had she sat down than the phone rang.
+    - Scarcely had they finished when the teacher came in.
+
+  4. So / Such … that…
+
+    为了强调，so / such 放在句首时要倒装。
+
+    - So loudly did he speak that everyone could hear.
+    - Such was his anger that he couldn’t speak.
+
+  5. 表频率或程度的副词置于句首
+
+    如 *seldom, rarely, little* 等，带有否定或限制意味。
+
+    - Seldom do we have the chance to hear such music.
+    - Rarely have I seen him so happy.
+    - Little did I know what was going to happen.
+
+  6. 条件句中的虚拟倒装
+
+    省略 *if* 时，句子需要倒装。
+
+    - Had I known the truth, I would have told you. (= If I had known…)
+    - Should you need any help, just call me. (= If you should need…)
+    - Were I you, I wouldn’t do that. (= If I were you…)
+
+  总结
+  - *部分倒装 = 助动词 / 情态动词 / 系动词提前 + 主语 + 其他成分*
+  - 常出现在 *否定副词、only短语、so/such、条件句省 if* 的场合。
+  - 功能：*强调* 或 *保持句子平衡/正式感*。
+
+5. *完全倒装*（Full Inversion）
+
+  - 完全倒装就是 *整个谓语动词（包括实义动词）放在主语前*。
+  - 对比：
+    - *正常语序*：The bus comes here.
+    - *完全倒装*：Here comes the bus.
+
+    和 *部分倒装* 不同：部分倒装只把 *助动词/情态动词/系动词* 提前，而实义动词不动。
+
+
+  + 表示地点 / 方位 / 方向的副词置于句首
+
+    当地点、方位或运动方向的副词或介词短语放句首时，常用完全倒装，尤其是在文学或书面语中。
+
+    - Here comes the bus.（公交车来了。）
+    - There goes the bell.（铃响了。）
+    - On the wall hung a picture.（墙上挂着一幅画。）
+    - In the distance appeared a tall building.（远处出现了一栋高楼。）
+    - 注意：主语如果是代词（he, she, it 等），一般不用倒装。
+      - Here he comes.（不用 *Here comes he.*）
+
+
+  + 表示“强调存在”的 there be 句型
+
+    - There is a book on the desk.
+    - There were many people at the meeting.
+
+    这是英语最典型的完全倒装结构。
+
+  + 为了保持句子平衡
+
+    当主语部分很长时，把谓语提前更自然。
+
+    - Seated at the table was a group of students who had just finished the exam.
+    - Lying in the corner are several old bicycles.
+
+
+  + 在某些固定句型中
+
+    - So do I. / So does he.（我也是/他也是。）
+    - Neither do I.（我也不。）
+
+    这些也是完全倒装，因为谓语整个提前。
+
+  #three-line-table[
+    | 类型       | 倒装内容             | 例子                                  |
+    | -------- | ---------------- | ----------------------------------- |
+    | *部分倒装* | 只把助动词/情态动词/系动词提前 | Never *have I* seen such a thing. |
+    | *完全倒装* | 整个谓语动词提前（实义动词在前） | On the hill *stood* a tall tower. |
+  ]
+
+  总结
+  - *副词（here, there, in, on 等）+ 动作 → 完全倒装*
+  - *there be → 固定完全倒装*
+  - *主语太长 → 倒装更自然*
+  - *So do I / Neither do I → 固定完全倒装*
+
 === 副词与状语位置
 
 1. *句首状语*（Fronted Adverbials）
